@@ -14,7 +14,7 @@ Estou começando a desenvolver projetos.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaufmanndevgit&repo=kaufmanndevgit.github.io)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaufmanndevgit&repo=site_performance)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaufmanndevgit&repo=curso_ebac_frontend)](file:///C:/backup/kaufmanndevgit.github.io/index.html)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaufmanndevgit&repo=curso_ebac_frontend)](https://github.com/anuraghazra/github-readme-stats)
 
 #Contatos
 
